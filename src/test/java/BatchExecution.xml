@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="com_flight_reservation.BatchExecution_Example"/>
+      <class name="com_flight_reservation.Drag_and_Drop"/>
+      <class name="com_flight_reservation.Handle_Window_Alert"/>
+      <class name="com_flight_reservation.Mouse_Hover_Yatra_Com"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
