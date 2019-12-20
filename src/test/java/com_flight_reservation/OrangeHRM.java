@@ -29,10 +29,10 @@ public class OrangeHRM {
 		driver.findElement(By.id("txtPassword")).sendKeys("admin123");
 		driver.findElement(By.id("btnLogin")).click();
 		
-		WebElement admin = driver.findElement(By.id("welcome"));
+		/*WebElement admin = driver.findElement(By.id("welcome"));
 		if(admin.isDisplayed()) {
 			System.out.println("Login Success.............");
-		}
+		}*/
 	}
 	@Test(priority=3)
 	public void titleValidation() {
