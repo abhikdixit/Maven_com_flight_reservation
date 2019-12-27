@@ -1,4 +1,4 @@
-package com.mercury.tours;
+package com_flight_reservation;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeTest;
